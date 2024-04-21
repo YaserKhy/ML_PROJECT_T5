@@ -1,4 +1,5 @@
-# Machine Learning Project - T5 Bootcamp [View Notebook](https://github.com/YaserKhy/ML_PROJECT_T5/blob/main/ML_project.ipynb)
+# Machine Learning Project - T5 Bootcamp
+###### [View Notebook](https://github.com/YaserKhy/ML_PROJECT_T5/blob/main/ML_project.ipynb)
 Team members :
 - Rawan Althubiany
 - Munirah Alhazzani
